@@ -25,7 +25,6 @@
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [Acidanthera](https://github.com/acidanthera)
 - [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
-- [OpenCore Configurator On Line](https://galada.gitee.io/opencoreconfiguratoronline/)
 
 **System Info**
 
