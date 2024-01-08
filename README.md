@@ -28,13 +28,12 @@
 
 **System Info**
 
-<img src="/Docs/Imgs/sonoma/info.png"/>
+<img src="img/info.png"/>
 
 **Geekbench Results**
 
 <img src="img/001.png" width="100%"/>
 <img src="img/002.png" width="100%"/>
 <img src="img/003.png" width="100%"/>
-<img src="img/004.png" width="100%"/>
 <img src="img/005.png" width="100%"/>
 <img src="img/006.png" width="100%"/>
