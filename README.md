@@ -28,7 +28,7 @@
 
 **System Info**
 
-<img src="img/info.png"/>
+<img src="img/info2.png"/>
 
 **Geekbench Results**
 
