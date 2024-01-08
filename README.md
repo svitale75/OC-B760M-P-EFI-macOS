@@ -1,21 +1,17 @@
-# An OpenCore (0.9.6) EFI that enables a Gigabyte H270N-WIFI based PC to run macOS (multiple versions)
+# An OpenCore (0.9.7) EFI that enables a MSI Pro B760M-P based PC to run macOS Sonoma
 
 **Machine's specs:**
-- Motherboard details: GIGABYTE GA-H270N-WIFI LGA1151 Intel H270 Mini ITX DDR4
-- CPU details: Intel Core i3-7100 7th Gen Core Desktop Processor 3M Cache,3.90 GHz (Kaby Lake)
-- GPU details: Intel HD Graphics 630
+- Motherboard details: MSI PRO B760M-P DDR4 ProSeries Motherboard
+- CPU details: Intel Core i5-12400 Desktop Processor 18M Cache, up to 4.40 GHz (Alder Lake)
+- GPU details: XFX Radeon RX 480 4GB GDDR5 True OC 1266MHz
 - WiFi and Bluetooth: BCM94360CS2
 
 **Works with:**
 - Sonoma 14.1.1
-- Ventura 13.16.1
-- Monteray 12.7.1
-- Big Sur 11.7.10
 
 **User's to do:**
 1. Download the latest release by macOS version
-2. Download the config.plist by macOS version
-3. Follow the instruction in the chosen macOS folder
+2. Download the latest EFI folder from the repository
     
 **Credits**
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
