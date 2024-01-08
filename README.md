@@ -7,7 +7,7 @@
 - WiFi and Bluetooth: BCM94360CS2
 
 **Works with:**
-- Sonoma 14.1.1
+- Sonoma 14.2.1
 
 **User's to do:** 
 1. Download **OpenCore Legacy Patcher**
