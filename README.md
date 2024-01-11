@@ -12,14 +12,15 @@
 **User's to do:** 
 1. Download **OpenCore Legacy Patcher**
 2. Create mac OS istaller for macOS **Sonoma** to a drive
-3. Build and instal OpenCore to the same drive
+3. Build and install OpenCore to the same drive
 4. Mount the drives **EFI** partition of your instal drive and delete it entirely
 5. Download this project's latest **release** and unzip the archive, this will give you a single folder named **EFI**
 6. Copy the  **EFI** to the root of your instal drive **EFI partition**
 7. Download **OpenCore Configurator** and open **config.plist** from your EFI folder
 8. Under **PlattformInfo**, select the DataHub - Generic - PlattformNVRAM. Select **MacPro7,1**
 9. Save **config.plist**
-10. After the installation, move the install drive's EFI to your main drive EFI partition
+10. Download the RadeonGadget.app from the repository and add it as a login item to show GPU temp on the menu bar
+11. After the installation, move the install drive's EFI to your main drive EFI partition
     
 **Credits**
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
